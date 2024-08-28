@@ -8,7 +8,7 @@ import (
 	"time"
 
 	kms "cloud.google.com/go/kms/apiv1"
-	gcpsigner "github.com/jwx-go/crypto-signer/v2/gcp"
+	gcpsigner "github.com/jwx-go/crypto-signer/gcp/v2"
 	"github.com/lestrrat-go/jwx/v2/jwa"
 	"github.com/lestrrat-go/jwx/v2/jws"
 )

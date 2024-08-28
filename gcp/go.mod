@@ -1,4 +1,4 @@
-module github.com/jwx-go/crypto-signer/v2/gcp
+module github.com/jwx-go/crypto-signer/gcp/v2
 
 go 1.17
 

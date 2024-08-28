@@ -1,4 +1,4 @@
-module github.com/jwx-go/crypto-signer/v2/aws
+module github.com/jwx-go/crypto-signer/aws/v2
 
 go 1.17
 
